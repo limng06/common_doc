@@ -826,7 +826,6 @@
 - DOMAIN-SUFFIX,openvpn.org,Proxy
 - DOMAIN-SUFFIX,theportalwiki.com,Proxy
 - DOMAIN-SUFFIX,onlineyoutube.com,Proxy
-- DOMAIN-SUFFIX,windowsphoneme.com,Proxy
 - DOMAIN-SUFFIX,impp.mn,Proxy
 - DOMAIN-SUFFIX,rfachina.com,Proxy
 - DOMAIN-SUFFIX,ptt.cc,Proxy
@@ -939,7 +938,6 @@
 - DOMAIN-SUFFIX,fan-qiang.com,Proxy
 - DOMAIN-SUFFIX,twt.tl,Proxy
 - DOMAIN-SUFFIX,javmoo.com,Proxy
-- DOMAIN-SUFFIX,bing.com,Proxy
 - DOMAIN-SUFFIX,4chan.com,Proxy
 - DOMAIN-SUFFIX,biblesforamerica.org,Proxy
 - DOMAIN-SUFFIX,karmapa-teachings.org,Proxy
@@ -2330,7 +2328,6 @@
 - DOMAIN-SUFFIX,vot.org,Proxy
 - DOMAIN-SUFFIX,teco-mo.org,Proxy
 - DOMAIN-SUFFIX,caobian.info,Proxy
-- DOMAIN-SUFFIX,premeforwindows7.com,Proxy
 - DOMAIN-SUFFIX,dajiyuan.com,Proxy
 - DOMAIN-SUFFIX,4everproxy.com,Proxy
 - DOMAIN-SUFFIX,incredibox.fr,Proxy
